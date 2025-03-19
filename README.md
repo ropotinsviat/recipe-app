@@ -7,7 +7,7 @@ A full-stack recipe application built with Next.js (frontend) and NestJS (backen
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/recipe-app.git
+git clone https://github.com/ropotinsviat/recipe-app.git
 cd recipe-app
 ```
 
